@@ -18,7 +18,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
  */
 public class IMDBtest {
 
-    private static final String SEARCHTERM = "Blade Runner";
+    private static final String SEARCHTERM = "Star Wars";
     private WebDriver driver;
     private String baseUrl;
     @Before
